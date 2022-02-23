@@ -1,0 +1,77 @@
+body{background-color:black;}
+
+#cuerpo{height:701px;
+        width:500px;
+        overflow:hidden;
+        
+ }
+
+#pantalla{
+          height:80px;
+          width:500px;
+          background-color:black;
+          color:white;
+          font-size:35px;
+          font-family:serif;
+ }
+ p{margin:0px;}
+ 
+ 
+ #salida{float:right;
+  margin-right:50px;
+  margin-top:20px;
+  
+ }
+
+
+#separador{height:1px;
+           width:500px;
+           background-color:black;
+           justify-content:center;
+           display:flex;
+
+           
+           
+  }
+#sep{height:1px;
+     width:350px;
+     
+     background-color:white;
+}
+
+
+
+
+form{float:left;
+height:500px;
+width:500px;
+background-color:black;
+
+}
+
+input{
+color:white;
+background-color:black;
+height:120px;
+width:120px;
+border-style:none;
+font-size:35px;
+font-family:serif;
+
+}
+
+input:hover{background-color:#d1fdff;
+            border-radius:60px;}
+
+#igual{background-color:#00f2ff;
+       border-radius:60px;
+
+}
+#operador{color:#00f2ff;
+}
+
+
+
+
+
+
